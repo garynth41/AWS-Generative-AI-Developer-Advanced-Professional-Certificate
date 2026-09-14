@@ -19,3 +19,10 @@
 6. Cloud Computing
 7. Multimodal Prompts
 8. Artificial Intelligence
+
+# Tools you'll learn
+1. Amazon Web Services
+2. Prompt Engineering
+3. Generative AI
+4. Vector Databases
+5. AI Workflows
